@@ -2,7 +2,7 @@
 
 I participated in a community event [DreamBooth Hackathon](https://huggingface.co/spaces/dreambooth-hackathon/leaderboard) organized by Hugging Face between Dec. 2022 - Jan 2023. The goal is fine-tuning a Stable Diffusion model with a technique called [DreamBooth](https://dreambooth.github.io/).
 
-My choice of a subject was Rex the Toy Dinosaur from the Toy Story. The dataset ([sooolee/rexthetoy](sooolee/rexthetoy)) was obtained from the web. Samples from the dataset are presented below.
+My choice of a subject was Rex the Toy Dinosaur from the Toy Story. The dataset ([sooolee/rexthetoy](https://huggingface.co/datasets/sooolee/rexthetoy)) was obtained from the web. Samples from the dataset are presented below.
 
 ![dataset](https://github.com/sooolee/dreambooth-hackathon/blob/main/images/dataset.png?raw=true)
 
