@@ -30,7 +30,3 @@ The prompt examples include: '...reading a book in a cafe', '...playing baseball
 
 ![doing_things](https://github.com/sooolee/dreambooth-hackathon/blob/main/images/doing_things.png?raw=true)
 
-
-## Afterthoughts
-
-I have to admit that the model is slightly overfitted. And it is somewhat intentional. I had trained the model with the same dataset but with a higher learning rate (1e-5 ~ 2e-6) and less training steps (600 ~ 800). These models made more diverse poses in doing actions but at the same time disfigured Rex the Toy more frequently. I preferred keeping the face and shape of Rex, sacrificing diversity to some degree. I am happy with the outputs of the final model with the 1e-6 learning rate and 1000 training steps. 
